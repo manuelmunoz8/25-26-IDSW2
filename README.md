@@ -2,7 +2,7 @@
 
 Repo de materiales y proyectos de la asignatura **IDSW2** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
-## Curso *[x][x+1]*
+## Curso [25][26]
 
 - [Temario](https://github.com/mmasias/idsw2)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
